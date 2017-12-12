@@ -1,0 +1,16 @@
+{
+  "name": "11-27-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "twitter": "^1.7.1"
+  }
+}
